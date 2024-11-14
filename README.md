@@ -1,4 +1,4 @@
-Link to site: https://britishm4tt.github.io/love-running/
+Link to site: https://britishm4tt.github.io/Love-Running/
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
